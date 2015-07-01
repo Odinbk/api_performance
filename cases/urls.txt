@@ -1,0 +1,2 @@
+Authorization:bearer 5b8e580abdc50c2e9b28f317ad8271c6f8850c02
+/v1.2/apps/ios/app/1/ranks?start_date=2015-06-10&end_date=2015-06-11&interval=daily&countries=US
